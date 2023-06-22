@@ -1,16 +1,20 @@
-<h1>Hi 👋, I'm Asrafil from Indonesia</h1>
-<h3>Currently grinding to become aspiring Product Engineer to help others.</h3>
+# Hi there! 👋 I'm Asrafil from Indonesia
 
-- 🔭 I’m currently working on **Mothertreestudio as Freelance Product Engineer**
+## About Me
+I am currently working as a Solo Developer at NinjaKoding, where I build apps that empower businesses and projects worldwide.
 
-- 🌱 I’m currently learning **Flutter**
+## Connect with Me
+- LinkedIn: [asrafilr](https://linkedin.com/in/asrafilr)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/asrafilr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asrafilr" height="30" width="40" /></a>
-</p>
+## Skills and Tools
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> </p>
+- Fullstack Development
+- Minimalist UI Design
+- Programming Languages: Dart, PHP, TypeScript
+- Frameworks: Flutter, Laravel, Next.js, WordPress
+- Tools: Elementor, Tailwind CSS, Figma
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asrafilll&show_icons=true&locale=en" alt="asrafilll" /></p>
+
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asrafilll&show_icons=true&locale=en)
+
