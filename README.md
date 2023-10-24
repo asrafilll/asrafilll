@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Asrafil from Indonesia
 
 ## About Me
-I've been a freelance full-stack developer since January 2023, actively engaged in crafting web and mobile applications for a diverse range of international clients.
+I've been a freelance full-stack developer since January 2023, actively engaged in crafting web and mobile applications for a diverse range of international clients. Available for exciting opportunities as **full-time or project-based jobs.** 
 
 ## Connect with Me
 <a href="https://asrafilll.com" target="_blank"><img align="left" alt="asrafill.com" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/www.svg" />
