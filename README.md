@@ -14,8 +14,8 @@ I've been a freelance full-stack developer since January 2023, actively engaged 
 
 ## Skills and tools
 - I love creating beautifully designed web and mobile applications
-- **Programming Languages:** Javascript, Typescript, Dart, PHP
-- **Frameworks:** Next.js, Flutter, Laravel, TailwindCSS
+- **Programming Languages:** Javascript, Typescript, Dart, PHP, C#
+- **Frameworks:** Next.js, Flutter, Laravel, TailwindCSS, ASP.Net
 - **Tools:** Figma, Prisma ORM, Framer Motion, Git, Elementor, WordPress, Firebase.
 
 
