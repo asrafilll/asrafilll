@@ -15,8 +15,3 @@ I've been a freelance full-stack developer since January 2023, actively engaged 
 - **Programming Languages:** Javascript, Typescript, Dart, C#
 - **Frameworks:** Next.js, Flutter, Laravel, TailwindCSS, .Net Core
 - **Tools/LIbraries:** Figma, Prisma ORM, Framer Motion, Git, Elementor, WordPress, Firebase.
-
-
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asrafilll&show_icons=true&locale=en)
-
