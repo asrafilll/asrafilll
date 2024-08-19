@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Asrafil from Indonesia
 
 ## About Me
-I've been a freelance full-stack developer since January 2023, actively engaged in crafting web and mobile applications for a diverse range of international clients. Available for exciting opportunities as **full-time or project-based jobs.** 
+Interdisciplinary software engineer with a unique blend of technical expertise and project management skills. Proficient in end-to-end development and design for web developments, with a proven track record of delivering innovative solutions for diverse clients background. Available for exciting opportunities as **full-time or project-based jobs.** 
 
 ## Connect with Me
 <a href="https://asrafilll.com" target="_blank"><img align="left" alt="asrafill.com" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/www.svg" />
@@ -10,8 +10,6 @@ I've been a freelance full-stack developer since January 2023, actively engaged 
 
 <br />
 
-## Skills and tools
-- I love creating beautifully designed web as fullstack web developer
-- **Programming Languages:** Javascript, Typescript, Dart, C#
-- **Frameworks:** Next.js, Flutter, Laravel, TailwindCSS, .Net Core
-- **Tools/LIbraries:** Figma, Prisma ORM, Framer Motion, Git, Elementor, WordPress, Firebase.
+## Skills and Tools
+- **Programming Languages:** Javascript, Typescript, Dart, PHP, C#, SQL.
+- **Technologies:** React, Nextjs, Tailwindcss, Nodejs, Prisma, Drizzle, PostgreSQL, DrizzleORM, Express, Jest, React Query, Jotai, R2, Docker, Docker Compose, ASP.Net, Laravel, Flutter.
