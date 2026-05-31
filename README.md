@@ -1,15 +1,32 @@
-# Hi there! 👋 I'm Asrafil from Indonesia
+# Hi, I'm Asrafil 👋
 
-## About Me
-Interdisciplinary software engineer with a unique blend of technical expertise and project management skills. Proficient in end-to-end development and design for web developments, with a proven track record of delivering innovative solutions for diverse clients background. Available for exciting opportunities as **full-time or project-based jobs.** 
+Full Stack Developer & AI Engineer based in Indonesia. I build production systems for banks, government agencies, and international clients — from architecture to deployment.
 
-## Connect with Me
-<a href="https://asrafilll.com" target="_blank"><img align="left" alt="asrafill.com" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/www.svg" />
-<a href="https://linkedin.com/in/asrafilr" target="_blank"><img align="left" alt="Asrafil R| LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
-<a href="http://dribbble.com/asrafilll" target="_blank"><img align="left" alt="Asrafil R | Dribbble" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/dribbble.svg" />
+- 🏦 Currently leading a distributed team building a procurement system for a major Indonesian state-owned bank
+- 🤖 Building AI-Engineered Product in production
+- 🌍 Upwork Top Rated · $6,000+ earned · 20+ projects delivered
+- 📦 Built an e-commerce platform serving 1M+ active users
 
-<br />
+---
 
-## Skills and Tools
-- **Programming Languages:** Javascript, Typescript, Dart, PHP, C#, SQL.
-- **Technologies:** React, Nextjs, Tailwindcss, Nodejs, Prisma, Drizzle, PostgreSQL, DrizzleORM, Express, Jest, React Query, Jotai, R2, Docker, Docker Compose, ASP.Net, Laravel, Flutter.
+## Tech Stack
+
+**Languages:** JavaScript · TypeScript · Python · PHP · SQL
+
+**Frontend:** React · Next.js · Tailwind CSS
+
+**Backend:** Node.js · Express · FastAPI · Laravel · ASP.NET
+
+**Database & Infra:** PostgreSQL · Redis · Docker · Prisma · CI/CD
+
+**AI & Agentic:** RAG Pipelines · MCP · LangChain · LLM Integration
+
+---
+
+## Let's Connect
+
+- 🌐 Portfolio: [asrafil.dev](https://asrafil.dev)
+- 💼 LinkedIn: [linkedin.com/in/asrafilr](https://linkedin.com/in/asrafilr)
+- 📧 Email: asrafil.dev@gmail.com
+
+> *Open to remote full-time roles in full-stack and AI engineering.*
