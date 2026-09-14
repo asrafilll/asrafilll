@@ -4,8 +4,7 @@ Full Stack Developer & AI Engineer based in Indonesia. I build production system
 
 - 🏦 Currently leading a distributed team building a procurement system for a major Indonesian state-owned bank
 - 🤖 Building AI-Engineered Product in production
-- 🌍 Upwork Top Rated · $6,000+ earned · 20+ projects delivered
-- 📦 Built an e-commerce platform serving 1M+ active users
+- 🌍 Upwork Top Rated
 
 ---
 
